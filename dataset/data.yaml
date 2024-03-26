@@ -1,0 +1,6 @@
+train: ../train/image
+val: ../val/image
+
+nc: 3
+names: ['Banana','beer','milo']
+
